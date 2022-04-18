@@ -1,0 +1,3 @@
+name: pulumi_first
+runtime: nodejs
+description: trying to learn Pulumi.
